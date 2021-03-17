@@ -1,1 +1,1 @@
-Is Github fun?
+Hello github.
